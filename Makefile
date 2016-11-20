@@ -1,4 +1,4 @@
-SRC_DIR=../pbtimberslide
+SRC_DIR=.
 DST_DIR=.
 
 all:
